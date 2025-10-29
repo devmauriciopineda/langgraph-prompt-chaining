@@ -2,3 +2,4 @@ langgraph==1.0.1
 langchain_openai==1.0.1
 langchain_google_genai==3.0.0
 pydantic-settings==2.11.0
+grandalf==0.8
